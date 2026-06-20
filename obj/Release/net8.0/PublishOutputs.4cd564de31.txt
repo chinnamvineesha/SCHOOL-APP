@@ -1,0 +1,12 @@
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/SchoolApp
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/appsettings.json
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/SchoolApp.dll
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/SchoolApp.runtimeconfig.json
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/SchoolApp.pdb
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/BCrypt.Net-Next.dll
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.dll
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/MySqlConnector.dll
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/Pomelo.EntityFrameworkCore.MySql.dll
+/home/azureuser/SchoolApp/bin/Release/net8.0/publish/SchoolApp.deps.json
